@@ -1,2 +1,5 @@
 #Telegrask>=0.3.7
 python-telegram-bot>=20.0a2
+telegram
+asyncio
+aiohttp
